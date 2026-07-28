@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Zakia - Proposal with a Twist</title>
+  <title>****** - Proposal with a Twist</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -83,7 +83,7 @@
 </head>
 <body>
 
-  <div id="horror">Zakia... RUN! Something is behind you! 👻</div>
+  <div id="horror">******... RUN! Something is behind you! 👻</div>
 
   <!-- Sweet Part Starts -->
   <div id="main">
